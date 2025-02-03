@@ -1,0 +1,1 @@
+# Mamedzade_Nurbaxsh.cpp
